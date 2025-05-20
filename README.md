@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Afende944
-- 👀 I’m interested in Software Engineering & Cybersecurity
-- 🌱 I’m currently learning Java, Linux and Python
-- 💞️ I’m looking to collaborate on any learning projects!
+- 👀 I’m interested in Cybersecurity & Game Design
+- 🌱 I’m currently learning C, Python, SQL, but mainly Python
+- 💞️ I’m looking to collaborate on any scripting projects! 
 - 📫 If you need to reach me, I have a linkedln
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I write and compose classical music 
