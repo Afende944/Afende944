@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Afende944
 - 👀 I’m interested in Cybersecurity & Game Design
-- 🌱 I’m currently learning C, Python, SQL, but mainly Python
-- 💞️ I’m looking to collaborate on any scripting projects! 
+- 🌱 Technical Skills: C, Python, Java, Wireless/Network Security
+- 💞️ I’m looking to work a career in the Cybersecurity field.
 - 📫 If you need to reach me, I have a linkedln
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I write and compose classical music 
+- ⚡ Fun fact: I've played the violin for 10+ years
 
 <!---
 Afende944/Afende944 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
