@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Afende944
-- 👀 I’m interested in Cybersecurity & Game Design
+- 👀 I’m interested in Cybersecurity, Ai & Game Design
 - 🌱 Technical Skills: C, Python, Java, Wireless/Network Security, Computer Hardening
 - 💞️ I’m looking to work a career in the Cybersecurity field.
 - 📫 If you need to reach me, I have a linkedln
